@@ -23,13 +23,11 @@
    
 }
 
-body {
-    background-image:url("https://www.atypicalfinance.com/wp-content/uploads/2018/10/Homepage-background.jpg");
-    background-size:100%;
-    background-position: center;
-    background-repeat: repeat-y;
-    background-attachment: fixed;
-    background-size: cover;
-    
+
+.img-1 {
+    width: 600px;
+    height: 250px;
+    padding-top: 10px;
+
 }
 
