@@ -10,5 +10,4 @@ for i in range(1, len(s)):
 print(v)
 
 plt.plot(t)
-
-    
+plt.show()
