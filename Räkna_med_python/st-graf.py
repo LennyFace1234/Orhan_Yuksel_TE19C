@@ -9,5 +9,6 @@ plt.plot(t, s, '*-')
 plt.title("Usain Bolt - s-t graf 100m ")
 plt.xlabel("Tid i sekunder")
 plt.ylabel("Sträcka i meter")
+plt.grid()
 plt.show()
 
