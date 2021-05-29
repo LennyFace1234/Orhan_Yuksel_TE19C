@@ -1,5 +1,4 @@
-import pandas as pd     # Importerar panas, numpy och matplotlib
-import numpy as np
+import pandas as pd     # Importerar panas och matplotlib
 import matplotlib.pyplot as plt
 
 
